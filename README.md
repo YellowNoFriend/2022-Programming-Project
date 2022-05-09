@@ -8,5 +8,4 @@ Recursive Animation and Towers of Hanoi
 
 Group 3
 
-Group Members: Hamad Babur, Ryan Lam, Jiawei Li, Sherry Shen 
 
